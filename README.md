@@ -95,3 +95,5 @@ Or invoke the composite action directly inside a job step:
 
 We welcome contributions to enhance support for common Kubeflow infrastructure! Please see our
 [CONTRIBUTING guide](CONTRIBUTING.md) for details.
+
+<!-- demo pr-gate test -->
